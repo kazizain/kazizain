@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kazizain
-- 👀 I’m interested in DevOps,cloud,automation
+- 👀 I’m interested in Web Development,Cross platform app Development,automation
 - 👨‍💻 I’m currently studyin software engineering
 - 👨‍🎓 Fast Nuces '24
 - 📫 kazizain94@gmail.com
