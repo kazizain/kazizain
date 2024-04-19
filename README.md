@@ -1,3 +1,5 @@
+![logo](https://github.com/kazizain/kazizain/blob/main/banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Qazi Zain</h1>
 <h3 align="center">A passionate Software Engineer and DevOps Practioner</h3>
 
