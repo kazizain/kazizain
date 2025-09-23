@@ -1,4 +1,4 @@
-![logo](https://github.com/kazizain/kazizain/blob/main/Screenshot 2025-09-23 at 7.29.16 PM.png)
+![logo](https://github.com/kazizain/kazizain/blob/main/banner2.png)
 
 <h1 align="center">Hi 👋, I'm Qazi Zain</h1>
 <h3 align="center">A passionate Software Engineer and DevOps Practioner</h3>
