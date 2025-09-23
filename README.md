@@ -1,23 +1,5 @@
 ![logo](https://github.com/kazizain/kazizain/blob/main/banner2.png)
 
-Got it 👍 I’ll remove **Azure DevOps** references and replace them with **GitLab**. Also, the sections (like blogs and social icons) appear “empty” because they use **placeholders** — for example:
-
-```md
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-```
-
-This requires an external GitHub Action or tool (like `blog-post-workflow`) to fetch and display your Medium posts automatically. Without that setup, it stays blank.
-
-Similarly, if a social link (e.g., LinkedIn, Facebook) has a broken or incorrect URL (like spaces in `kazi zain`), the icon shows but clicking may not work. We should fix those too.
-
-Here’s the updated README with **GitLab instead of Azure DevOps** and cleaned links:
-
----
-
-![logo](https://github.com/kazizain/kazizain/blob/main/banner2.png)
-
 <h1 align="center">Hi 👋, I'm Qazi Zain</h1>
 <h3 align="center">SDET & DevOps Practitioner — Test Automation Engineer at Nisum Pakistan</h3>
 
