@@ -1,113 +1,154 @@
-![logo](https://github.com/kazizain/kazizain/blob/main/banner2.png)
+# Hi, I'm Qazi Zain 👋
 
-<h1 align="center">Hi 👋, I'm Qazi Zain</h1>
-<h3 align="center">SDET & DevOps Practitioner — Test Automation Engineer at Nisum Pakistan</h3>
-<h4 align="center">Portfolio Web Url:https://zain-automation-lab.lovable.app/</h4>
+### SDET | Test Automation Engineer | Quality Engineering
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kazizain&label=Profile%20views&color=0e75b6&style=flat" alt="kazizain" /> </p>
+Test Automation Engineer at **Nisum Pakistan**, focused on building reliable automation frameworks, improving software quality, and integrating testing into CI/CD pipelines.
 
----
-
-### 👨‍🎓 About Me
-
-* 🎓 Graduate in **Software Engineering** from **FAST NUCES**.
-* 🔭 Currently working as a **Test Automation Engineer / SDET Practitioner** at **Nisum Pakistan**.
-* 🌱 Continuously learning and applying **DevOps practices with GitLab**, exploring **AI in testing**, and expanding my knowledge in **Playwright (TypeScript)** and **Performance Testing**.
-* 💡 Passionate about building scalable **automation frameworks**, integrating **CI/CD pipelines**, and driving **quality-first engineering culture**.
-* 🔒 Security-conscious tester with hands-on exploration in **Burp Suite** and basics of penetration testing.
+🌐 **Portfolio:** [zain-automation-lab.lovable.app](https://zain-automation-lab.lovable.app/)
 
 ---
 
-### 🛠️ Skills & Expertise
+## 👨‍💻 About Me
 
-#### **Test Automation & Frameworks**
+- 🎓 Software Engineering graduate from **FAST NUCES**.
+- 💼 Working as a **Test Automation Engineer at Nisum Pakistan**.
+- 🧪 Experienced in UI automation, functional testing, API testing, and quality assurance.
+- ⚙️ Working with **Playwright, Selenium, Java, TypeScript, and CI/CD tools**.
+- 🔐 Exploring application security testing and vulnerability assessment using Burp Suite.
+- ☁️ Expanding my knowledge of Linux, Docker, Kubernetes, Azure, and DevOps practices.
+- 🧠 Exploring AI-assisted testing, intelligent test automation, and agentic AI workflows.
+- 🏗️ Currently strengthening my understanding of System Design, Microservices, and Test Architecture.
 
-* Selenium + TestNG (Java)
-* Playwright (TypeScript)
-* Allure Reporting
-* BrowserStack Integration
-
-#### **CI/CD & DevOps**
-
-* Jenkins Pipeline Automation
-* GitLab CI/CD
-* Docker (Test Environments)
-
-#### **Performance & Security Testing**
-
-* Apache JMeter (integrated with Jenkins)
-* Burp Suite (Beginner-level Pentesting)
-
-#### **Programming & Tools**
-
-* Java, TypeScript, JavaScript
-* Git & GitHub
-* SQL (MySQL, Oracle)
+My goal is to build scalable testing solutions and contribute to quality engineering throughout the software development lifecycle.
 
 ---
 
-### 🚀 Highlights
+## 🛠️ Technical Skills
 
-* ✅ **Main Role:** SDET / Test Automation Engineer (framework design, test strategies, CI/CD integration).
-* ✅ **DevOps Focus:** GitLab pipelines, Jenkins automation, test reporting, and performance pipelines.
-* ✅ **Cross-Stack Experience:** Java, TypeScript, JMeter, Selenium, Playwright.
-* ✅ **Security Aware:** Applying pentesting insights to QA cycles.
-* ✅ **Forward-Looking:** Exploring AI/ML tools for smarter test automation and defect analysis.
+### Test Automation & Quality Engineering
+- Playwright (TypeScript)
+- Selenium WebDriver (Java)
+- TestNG
+- Page Object Model (POM)
+- Allure Reporting
+- BrowserStack
+- Functional & Regression Testing
 
----
+### API & Backend Testing
+- Postman
+- REST API Testing
+- Rest Assured (Learning)
+- SQL & Database Validation
 
-### ✍️ Blogs & Articles
+### CI/CD & DevOps
+- Jenkins
+- GitLab CI/CD
+- Git & GitHub
+- Docker
+- Linux
+- Kubernetes (Learning)
+- Microsoft Azure (Learning)
 
-I regularly share insights, learning experiences, and testing best practices on [Medium](https://medium.com/@kazizain94).
+### Performance & Security Testing
+- Apache JMeter
+- Performance Testing
+- Burp Suite
+- Web Application Security Testing
 
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/kazizain" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://facebook.com/kazizain" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/zain_.blogs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://medium.com/@kazizain94" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a>
-</p>
-
-* 📫 Reach me at: **[kazizain94@gmail.com](mailto:kazizain94@gmail.com)**
-
----
-
-### 📊 GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kazizain&show_icons=true&locale=en&layout=compact" alt="kazizain" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kazizain&show_icons=true&locale=en" alt="kazizain" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kazizain&" alt="kazizain" /></p>
-
----
-
-### 🧰 Languages & Tools
-
-<p align="left"> 
-<a href="https://gitlab.com/" target="_blank"> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="gitlab" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://playwright.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40"/> </a>
-<a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-<a href="https://jmeter.apache.org/" target="_blank"> <img src="https://jmeter.apache.org/images/jmeter.png" alt="jmeter" width="40" height="40"/> </a>
-<a href="https://www.jenkins.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://www.browserstack.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/browserstack/browserstack-icon.svg" alt="browserstack" width="40" height="40"/> </a>
-<a href="https://portswigger.net/burp" target="_blank"> <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/burpsuite.svg" alt="burpsuite" width="40" height="40"/> </a>
-</p>
+### Programming Languages
+- Java
+- TypeScript
+- JavaScript
 
 ---
 
-✨ This README is designed to showcase both **my professional expertise** and **personal learning journey**. Looking forward to connecting with like-minded professionals!
+## 🚀 Current Learning & Engineering Focus
 
+I'm continuously developing my engineering skills in the following areas:
 
+| Area | Learning Focus |
+|---|---|
+| System Design | Client-server architecture, microservices, distributed systems |
+| Test Architecture | Test Pyramid, Shift-Left Testing, contract testing |
+| Automation Architecture | Scalable frameworks and maintainable test design |
+| DevOps | Linux, Docker, Kubernetes, CI/CD |
+| API Engineering | Rest Assured and backend integration testing |
+| AI in Testing | AI agents, MCP, test generation and failure analysis |
 
+---
 
+## 📂 Featured Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kazizain&" alt="kazizain" /></p>
+Explore my repositories for hands-on work and learning projects in:
 
+- UI Automation Frameworks
+- API Automation
+- Java & Selenium
+- Playwright & TypeScript
+- CI/CD Automation
+- DevOps & Containerization
+- System Design & Quality Engineering
+
+👉 [Explore All My Repositories](https://github.com/kazizain?tab=repositories)
+
+---
+
+## 🏆 Professional Highlights
+
+- Experience in designing and maintaining UI automation solutions.
+- Hands-on experience with Selenium and Playwright automation.
+- Exposure to CI/CD pipeline integration and automated test execution.
+- Experience in API testing and application security testing.
+- Focused on improving automation reliability, maintainability, and test coverage.
+- Interested in AI-driven approaches to modern software quality engineering.
+
+---
+
+## ✍️ Blogs & Articles
+
+I share technical insights, learning experiences, and testing-related content.
+
+📝 [Read my articles on Medium](https://medium.com/@kazizain94)
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kazizain&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kazizain&layout=compact&theme=default&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kazizain&theme=default&hide_border=true)
+
+---
+
+## 🧰 Technologies & Tools
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![BrowserStack](https://img.shields.io/badge/BrowserStack-FF6C37?style=for-the-badge&logo=browserstack&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/kazizain)
+- 📝 [Medium](https://medium.com/@kazizain94)
+- 🌐 [Portfolio](https://zain-automation-lab.lovable.app/)
+- 📧 [Email](mailto:kazizain94@gmail.com)
+- 📸 [Instagram](https://instagram.com/zain_.blogs)
+
+---
+
+⭐ Thanks for visiting my profile!
+
+I'm always interested in learning, collaborating, and contributing to projects focused on software quality, automation engineering, and modern testing practices.
