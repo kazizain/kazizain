@@ -106,15 +106,15 @@ I believe in learning through practical implementation. My repositories showcase
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kazizain&show_icons=true&theme=default&hide_border=true" alt="Qazi Zain's GitHub Statistics" />
+  <img src="https://github-stats-extended.vercel.app/api?username=kazizain&show_icons=true&theme=default&hide_border=true" alt="Qazi Zain's GitHub Statistics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazizain&layout=compact&theme=default&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kazizain&layout=compact&theme=default&hide_border=true" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazizain&theme=default&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com/?user=kazizain&theme=default&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
