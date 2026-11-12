@@ -2,37 +2,38 @@
 
 ### SDET | Test Automation Engineer | Quality Engineering
 
-Test Automation Engineer at **Nisum Pakistan**, focused on building reliable automation frameworks, improving software quality, and integrating testing into CI/CD pipelines.
+Test Automation Engineer at **Nisum Pakistan**, focused on building reliable automation frameworks, improving software quality, and integrating automated testing into CI/CD pipelines.
 
-🌐 **Portfolio:** [zain-automation-lab.lovable.app](https://zain-automation-lab.lovable.app/)
+I work across UI automation, API testing, and application security, while expanding my expertise in DevOps, cloud technologies, and AI-driven quality engineering.
+
+🌐 **Portfolio:** [Zain Automation Lab](https://zain-automation-lab.lovable.app/)
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 Software Engineering graduate from **FAST NUCES**.
-- 💼 Working as a **Test Automation Engineer at Nisum Pakistan**.
-- 🧪 Experienced in UI automation, functional testing, API testing, and quality assurance.
-- ⚙️ Working with **Playwright, Selenium, Java, TypeScript, and CI/CD tools**.
+- 💼 Test Automation Engineer at **Nisum Pakistan**.
+- 🧪 Hands-on experience with UI automation, functional testing, regression testing, and API testing.
+- ⚙️ Working with **Playwright, Selenium, Java, TypeScript, and TestNG**.
 - 🔐 Exploring application security testing and vulnerability assessment using Burp Suite.
-- ☁️ Expanding my knowledge of Linux, Docker, Kubernetes, Azure, and DevOps practices.
-- 🧠 Exploring AI-assisted testing, intelligent test automation, and agentic AI workflows.
-- 🏗️ Currently strengthening my understanding of System Design, Microservices, and Test Architecture.
+- ☁️ Building practical knowledge of Linux, Docker, Kubernetes, and Microsoft Azure.
+- 🧠 Exploring AI-assisted testing, agentic AI, and intelligent automation workflows.
+- 🏗️ Strengthening my knowledge of System Design, Microservices, and scalable Test Architecture.
 
-My goal is to build scalable testing solutions and contribute to quality engineering throughout the software development lifecycle.
+**My goal:** To build maintainable automation solutions and contribute to software quality across the entire Software Development Lifecycle (SDLC).
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### Test Automation & Quality Engineering
-- Playwright (TypeScript)
-- Selenium WebDriver (Java)
-- TestNG
-- Page Object Model (POM)
+- Playwright with TypeScript
+- Selenium WebDriver with Java
+- TestNG and Page Object Model (POM)
 - Allure Reporting
 - BrowserStack
-- Functional & Regression Testing
+- Functional, Regression, and Cross-Browser Testing
 
 ### API & Backend Testing
 - Postman
@@ -64,43 +65,76 @@ My goal is to build scalable testing solutions and contribute to quality enginee
 
 ## 🚀 Current Learning & Engineering Focus
 
-I'm continuously developing my engineering skills in the following areas:
-
-| Area | Learning Focus |
+| Area | Focus |
 |---|---|
 | System Design | Client-server architecture, microservices, distributed systems |
 | Test Architecture | Test Pyramid, Shift-Left Testing, contract testing |
-| Automation Architecture | Scalable frameworks and maintainable test design |
-| DevOps | Linux, Docker, Kubernetes, CI/CD |
+| Automation Engineering | Scalable frameworks and maintainable test design |
+| DevOps & Cloud | Linux, Docker, Kubernetes, Azure, CI/CD |
 | API Engineering | Rest Assured and backend integration testing |
-| AI in Testing | AI agents, MCP, test generation and failure analysis |
+| AI in Testing | AI agents, MCP, test generation, failure analysis |
 
 ---
 
 ## 📂 Featured Projects
 
-Explore my repositories for hands-on work and learning projects in:
+I believe in learning through practical implementation. My repositories showcase hands-on work and experiments in:
 
 - UI Automation Frameworks
 - API Automation
-- Java & Selenium
+- Selenium & Java
 - Playwright & TypeScript
-- CI/CD Automation
+- CI/CD Integration
 - DevOps & Containerization
-- System Design & Quality Engineering
+- Quality Engineering
 
-👉 [Explore All My Repositories](https://github.com/kazizain?tab=repositories)
+👉 **[Explore All My Repositories](https://github.com/kazizain?tab=repositories)**
 
 ---
 
 ## 🏆 Professional Highlights
 
-- Experience in designing and maintaining UI automation solutions.
-- Hands-on experience with Selenium and Playwright automation.
+- Experience designing and maintaining UI automation solutions.
+- Hands-on experience with Selenium and Playwright.
 - Exposure to CI/CD pipeline integration and automated test execution.
 - Experience in API testing and application security testing.
-- Focused on improving automation reliability, maintainability, and test coverage.
-- Interested in AI-driven approaches to modern software quality engineering.
+- Recognized for contributions to software quality and security testing.
+- Continuously exploring AI-driven approaches to modern quality engineering.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kazizain&show_icons=true&theme=default&hide_border=true" alt="Qazi Zain's GitHub Statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazizain&layout=compact&theme=default&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazizain&theme=default&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+## 🧰 Technologies & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter" />
+  <img src="https://img.shields.io/badge/BrowserStack-FF6C37?style=for-the-badge&logo=browserstack&logoColor=white" alt="BrowserStack" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 ---
 
@@ -109,33 +143,6 @@ Explore my repositories for hands-on work and learning projects in:
 I share technical insights, learning experiences, and testing-related content.
 
 📝 [Read my articles on Medium](https://medium.com/@kazizain94)
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kazizain&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kazizain&layout=compact&theme=default&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kazizain&theme=default&hide_border=true)
-
----
-
-## 🧰 Technologies & Tools
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![BrowserStack](https://img.shields.io/badge/BrowserStack-FF6C37?style=for-the-badge&logo=browserstack&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
