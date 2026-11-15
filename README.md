@@ -41,14 +41,19 @@ I work across UI automation, API testing, and application security, while expand
 - Rest Assured (Learning)
 - SQL & Database Validation
 
-### CI/CD & DevOps
-- Jenkins
-- GitLab CI/CD
-- Git & GitHub
-- Docker
-- Linux
-- Kubernetes (Learning)
-- Microsoft Azure (Learning)
+
+### CI/CD, Cloud & DevOps
+- **CI/CD:** Jenkins, GitLab CI/CD, GitHub Actions
+- **Version Control:** Git, GitHub, GitLab
+- **Containerization:** Docker, Docker Compose
+- **Container Orchestration:** Kubernetes, Azure Kubernetes Service (AKS)
+- **Cloud Platform:** Microsoft Azure (AKS, ACR, VMSS, Virtual Networks, Application Gateway)
+- **Linux Administration:** Ubuntu, CLI, Shell Scripting, File Permissions, Service Management
+- **Infrastructure & Networking:** VNets, Subnets, NSGs, Load Balancing, Autoscaling
+- **Cloud Monitoring & Cost Management:** Azure Monitor, Budget Alerts, Resource Management
+- **Deployment & Troubleshooting:** Microservices Deployment, Container Networking, Kubernetes Services
+
+
 
 ### Performance & Security Testing
 - Apache JMeter
@@ -78,17 +83,33 @@ I work across UI automation, API testing, and application security, while expand
 
 ## 📂 Featured Projects
 
-I believe in learning through practical implementation. My repositories showcase hands-on work and experiments in:
 
-- UI Automation Frameworks
-- API Automation
-- Selenium & Java
-- Playwright & TypeScript
-- CI/CD Integration
-- DevOps & Containerization
-- Quality Engineering
+### ☁️ Azure Kubernetes — Healthcare Microservices
 
-👉 **[Explore All My Repositories](https://github.com/kazizain?tab=repositories)**
+Deployed a containerized healthcare management application on Azure Kubernetes Service (AKS).
+
+**Technologies:** Azure AKS, Docker, Kubernetes, GitHub Actions, Azure Container Registry, MySQL
+
+- Containerized application services using Docker.
+- Worked with Kubernetes Deployments and Services.
+- Configured Azure cloud infrastructure and container registry.
+- Troubleshot networking, image pulling, and CORS issues.
+- Documented deployment and troubleshooting procedures.
+
+🔗 [View HMS Kubernetes Project](https://github.com/kazizain/hms-microservices-app-docker-compose)
+
+### 🧪 Selenium Java Automation Framework
+
+A reusable UI test automation framework built with Java, Selenium WebDriver, TestNG, and Maven.
+
+**Technologies:** Java, Selenium, TestNG, Maven, Allure
+
+- Page Object Model (POM) architecture.
+- Reusable automation components.
+- TestNG-based test execution.
+- Allure test reporting.
+
+🔗 [View Selenium Framework](https://github.com/kazizain/automation-framework-selenium)
 
 ---
 
@@ -100,6 +121,14 @@ I believe in learning through practical implementation. My repositories showcase
 - Experience in API testing and application security testing.
 - Recognized for contributions to software quality and security testing.
 - Continuously exploring AI-driven approaches to modern quality engineering.
+
+
+### 🏅 Awards & Recognition
+
+- 🏆 **Employee of the Quarter** — Nisum 25th Anniversary
+- 🔐 **Top Performer** — Security Initiative
+- 🌟 **Star Performer** — Corporate Communication Training
+
 
 ---
 
